@@ -1,0 +1,200 @@
+body{ 
+    margin: 0;
+    background-image: url(kartinki/woda.jpg);
+    background-size: cover;
+    font-family: 'Rubik Vinyl', cursive;
+    background-repeat:initial;}
+.pstr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1000px;
+}
+.malina{
+    font-size: 7vw;
+    text-align: right;
+    color:aqua;
+    font-weight: 1000;
+    padding: 15px;
+}
+.class{
+    transition: 300ms;
+}
+.lida{
+    padding: 10px;
+    font-size: 3vw;
+    text-align: bottom;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.class:hover{
+    transform: scale(1.2);}
+.chvoda{
+    font-size: 6vw;
+    color:cyan;
+    font-weight: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    
+}
+
+.textij{
+    font-family: fantasy;
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding: 15px;
+    background-image: url(kartinki/vodichka.jpg);
+    font-size: 27px;
+
+}
+.vstr{
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.loba{
+    height: 200px;
+    width: 100%;
+    background-attachment: fixed;
+    font-size: 5vw;
+    color: rgb(0, 0, 0);
+    font-weight: 1000;
+    display: flex;
+    color: aquamarine;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 80px;
+    
+    
+}
+.karti{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.charon{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 400px;
+    width: 400px;
+    background-color: rgb(184, 252, 229);
+    
+
+}
+.iqos{
+    height: 200px;
+
+}
+.brusko{
+    font-size: 3vw;
+    text-align: center;
+    color:aqua;
+    font-weight: 1000;
+    transition: 300ms;
+    cursor: pointer;
+    
+}
+.brusko:hover{
+    transform: scale(1.2);
+}
+.vidosik{
+    height: 200px;
+}
+a{
+    text-decoration: none;
+    color: brown;
+}
+.aba{
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    top: 600px;
+    display: flex; 
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
+.russia{
+    width: 100%;
+    
+    text-transform: uppercase;
+    font-size: 60px;
+    padding: 19px;
+    padding-top: 450px;
+
+    
+}
+.saaa{
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.texto{
+    width: 90px;
+    height: 20px;
+    margin: 20px;
+    padding: 20px;
+    background-color:cornflowerblue;
+    
+    
+}
+.konec{
+    cursor: pointer;
+    background-color:cornflowerblue;
+    
+}
+.otzivi{
+    height: 700px;
+    width: 100%;
+    font-size: 5vw;
+    color: rgb(0, 0, 0);
+    font-weight: 1000;
+    display: flex;
+    color: aquamarine;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 80px;
+}
+.hesos{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.volols{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    flex-direction: column;
+    
+    height: 400px;
+    width: 400px;
+    background-color: rgb(184, 252, 229);
+    
+}
+.bynb{
+    height: 160px;
+    width: 160px;
+    border-radius: 1000px;
+}
+.texno{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 36px;
+
+}
